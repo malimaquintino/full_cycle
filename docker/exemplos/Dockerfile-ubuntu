@@ -1,0 +1,7 @@
+FROM ubuntu:latest
+
+# ENTRYPOINT COMANDO FIXO
+ENTRYPOINT ["echo", "Hello world"] 
+
+# CMD COMANDO VARIAVEL PODE MUDAR O PARAMETRO
+CMD ["Hello world"]
