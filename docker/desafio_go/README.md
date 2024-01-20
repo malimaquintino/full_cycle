@@ -22,4 +22,4 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
 
 
-**COMANDO PARA EXECUTAR A IMAGE:** `docker run malimaquintino/desafio_go`
+**COMANDO PARA EXECUTAR A IMAGE:** `docker run malimaquintino/fullcycle`
